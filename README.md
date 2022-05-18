@@ -1,0 +1,3 @@
+- Hi, I’m @Threaten6818
+- I’m interested in linux
+- I’m currently learning java
